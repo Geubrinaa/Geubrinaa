@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+<img align="center" weight= 300 src="https://i.pinimg.com/originals/96/25/1e/96251e36ce717d55f4c61a081ab9180a.gif"/>
+</p>
+<h1 align= "center">Hello Everyone, I'm Syarifah Geubrina Alayda 👋 </h1>
 
-<!--
-**Geubrinaa/Geubrinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Languages and Tools:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,html,css,mysql,nodejs,postman,gcp,sqlite,vscode" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2>Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/syarifah-geubrina-alayda/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="geubrinaa"/></a>
+<a href="https://instagram.com/syfrnad" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="geubrinaa"/></a>
+<a href="rinanayakina@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="geubrinaa" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Education:</h2>
+<p align="left">
+  <a>University of Indraprasta PGRI</a> <a> | Informatics Engineering | 2021 - 2025</a>
+<br>
+<a>SMA Bunda Kandung</a> <a> | MIPA | 2017 - 2020</a>
+</p>
+
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Geubrinaa&theme=dark&hide_border=true"/>
+  <br>
+  <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geubrinaa&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+ <br>
+</p>
+
+
+
