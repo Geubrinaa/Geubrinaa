@@ -12,7 +12,7 @@
 
 <h2>Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syarifah-geubrina-alayda/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="geubrinaa"/></a>
+<a href="https://www.linkedin.com/in/syarifah-geubrina-alayda/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="geubrinaa"/></a>
 <a href="https://instagram.com/syfrnad" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="geubrinaa"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rinanayakina@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="geubrinaa" /></a>
 </p>
