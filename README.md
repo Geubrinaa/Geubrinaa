@@ -13,15 +13,12 @@
 <h2>Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/syarifah-geubrina-alayda/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="geubrinaa"/></a>
-<a href="https://instagram.com/syfrnad" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="geubrinaa"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rinanayakina@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="geubrinaa" /></a>
 </p>
 
 <h2>Education:</h2>
 <p align="left">
   <a>University of Indraprasta PGRI</a> <a> | Informatics Engineering | 2021 - 2025</a>
-<br>
-<a>SMA Bunda Kandung</a> <a> | MIPA | 2017 - 2020</a>
 </p>
 
 <p>
