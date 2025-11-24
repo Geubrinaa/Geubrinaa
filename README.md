@@ -26,10 +26,6 @@
 
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Geubrinaa&theme=dark&hide_border=true"/>
-  <br>
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geubrinaa&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
- <br>
 </p>
 
 
